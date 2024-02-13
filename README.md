@@ -1,6 +1,6 @@
 ### Hello, I am Lara...
 
-I am an student and developer with a passion for the digital realm, <br>
+I am an  Information Technology student, with a passion for the digital realm, <br>
 and dedicated to continuous growth, showcasing resilience and flexibility.✦
 
 <br>
