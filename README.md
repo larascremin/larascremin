@@ -1,7 +1,7 @@
 ### Hello, I am Lara...
 
 I am an Information Technology student, with a passion for the digital realm, <br>
-and dedicated to continuous growth, showcasing resilience and flexibility ✦
+and dedicated to continuous growth, showcasing resilience and flexibility ✦ 
 
 <br>
 
