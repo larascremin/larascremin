@@ -16,7 +16,7 @@ and dedicated to continuous growth, showcasing resilience and flexibility ✦
 🛠️ EXPERIENCE:
 
 - Data security, ISO/IEC 27001, 27018, 27701; <br>
-- Front-end development; <br>
+- Fullstack development; <br>
 - Design, prototype and UI/UX; <br>
 
 ##
