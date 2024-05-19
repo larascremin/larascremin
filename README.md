@@ -1,7 +1,7 @@
 ### Hello, I am Lara...
 
-I am an Information Technology student, with a passion for the digital realm, <br>
-and dedicated to continuous growth, showcasing resilience and flexibility ✦ 
+I am an Information Technology student and a full-stack developer, with a passion for the digital <br>
+realm. I am dedicated to continuous growth, showcasing resilience and flexibility ✦ 
 
 <br>
 
@@ -16,8 +16,8 @@ and dedicated to continuous growth, showcasing resilience and flexibility ✦
 🛠️ EXPERIENCE:
 
 - Data security, ISO/IEC 27001, 27018, 27701; <br>
-- Fullstack development; <br>
-- Design, prototype and UI/UX; <br>
+- Fullstack and mobile development; <br>
+- Design, prototype, and UI/UX; <br>
 
 ##
 
