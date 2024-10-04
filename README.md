@@ -14,8 +14,8 @@ I am an Information Technology student, developer, and entrepreneur passionate a
 
 🛠️ EXPERIENCE:
 
+- Back-end and mobile development; <br>
 - Data security, ISO/IEC 27001, 27018, 27701; <br>
-- Web and mobile development; <br>
 - Design, prototype, and UI/UX; <br>
 
 ##
