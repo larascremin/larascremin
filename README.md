@@ -1,6 +1,8 @@
 ### Hello World, I am Lara...
 
-I am an Information Technology student, developer, and entrepreneur passionate about the digital realm.<br> Constantly driven by curiosity and innovation, I’m always looking for new opportunities to grow, learn, and excel. I thrive in dynamic environments and I love starting new projects : )
+I am an Information Technology student, developer, and entrepreneur passionate about the digital realm.<br> 
+Constantly driven by curiosity and innovation, I’m always looking for new opportunities to grow, learn, and excel. <br>
+I thrive in dynamic environments and I love starting new projects : )
 
 <br>
 
