@@ -1,10 +1,10 @@
 ### Hello World, I am Lara...
 
-I am an Information Technology student, developer, and entrepreneur passionate about the digital realm.<br> Always on the move, I am constantly seeking new opportunities and striving for excellence. And I love starting new projects : ) 
+I am an Information Technology student, developer, and entrepreneur passionate about the digital realm.<br> Constantly driven by curiosity and innovation, I’m always looking for new opportunities to grow, learn, and excel. I thrive in dynamic environments and I love starting new projects : )
 
 <br>
 
-🔎 ABOUT ME:
+🍄 ABOUT ME:
 
 - Founding a Startup;
 - Bachelor in Information Systems;
@@ -14,7 +14,7 @@ I am an Information Technology student, developer, and entrepreneur passionate a
 
 🛠️ EXPERIENCE:
 
-- Full-stack development; <br>
+- Full-stack developer; <br>
 - Data security, ISO 27001, 27018, 27701; <br>
 - Design, prototype, and UI/UX; <br>
 
