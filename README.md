@@ -1,8 +1,8 @@
 ### Hello World, I am Lara...
 
-I am an Information Technology student, developer, and entrepreneur passionate about the digital realm.<br> 
-Constantly driven by curiosity and innovation, I’m always looking for new opportunities to grow, learn, and excel. <br>
-I thrive in dynamic environments and I love starting new projects : )
+I’m an Information Technology student, developer, and entrepreneur passionate about the digital world. <br>
+A proactive team player, I love contributing to meaningful projects and pushing boundaries in the tech space. <br>
+I’m always looking for new opportunities to grow and learn and love starting new projects : )
 
 <br>
 
@@ -16,9 +16,9 @@ I thrive in dynamic environments and I love starting new projects : )
 
 🛠️ EXPERIENCE:
 
-- Full-stack developer; <br>
-- Data security, ISO 27001, 27018, 27701; <br>
-- Design, prototype, and UI/UX; <br>
+- Development with Spring Boot, Flutter, React and Apex; <br>
+- Data security, ISO 27001, 27018, 27701 and GDPL; <br>
+- Physical and digital networks, servers and admin tools; <br>
 
 ##
 
