@@ -2,7 +2,7 @@
 
 I’m an Information Technology student, developer, and entrepreneur with a strong passion for the digital <br>
 world. A proactive team player, I enjoy contributing to meaningful projects that make an impact. <br>
-I’m constantly seeking opportunities to grow, learn, and challenge myself, and I love starting new projects. : )
+I’m constantly seeking opportunities to grow, learn, and challenge myself, and I love starting new projects : )
 
 <br>
 
@@ -16,9 +16,9 @@ I’m constantly seeking opportunities to grow, learn, and challenge myself, and
 
 🛠️ EXPERIENCE:
 
-- Development with Spring Boot, Apex, React and Flutter; <br>
+- Development with Spring Boot, Java, Apex, Javascript, React.js and Flutter; <br>
 - Data security, ISO 27001, 27018, 27701 and GDPL; <br>
-- Physical and digital networks, servers and admin tools; <br>
+- Physical and digital networks, servers and admin tools and AWS; <br>
 
 ##
 
